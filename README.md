@@ -1,4 +1,3 @@
----
 
 # 🍖 Calculadora de Churrasco
 
@@ -58,4 +57,4 @@ Carne necessária: 4.00 kg
 
 Este projeto é de uso livre para fins de estudo e prática.
 
----
+
